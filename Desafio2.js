@@ -28,4 +28,4 @@ let derrotas = 30;
 
 let resultado = calcularNivel(vitorias, derrotas);
 
-console.log(`O Herói tem de saldo de ${resultado.saldoVitorias}  e está no nível de ${resultado.nivel}`);
+console.log(`O Herói tem de saldo de ${resultado.saldoVitorias} e está no nível de ${resultado.nivel}`);
